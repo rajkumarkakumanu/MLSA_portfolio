@@ -27,11 +27,11 @@ const siteProps = {
   name: "RAJKUMAR KAKUMANU",
   title: "Web Designer & Content Creator",
   email: "rajkumarkakumanu2003@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "rajkumarkakumanu",
+  instagram: "rajkumar_kakumanu",
+  linkedIn: "kakumanu-rajkumar",
   medium: "",
-  twitter: "microsoft",
+  twitter: "K_RAJKUMAR_",
   youTube: "Code",
 };
 
