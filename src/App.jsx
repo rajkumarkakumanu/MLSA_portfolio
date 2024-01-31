@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "kakumanu-rajkumar",
   medium: "",
   twitter: "K_RAJKUMAR_",
-  youTube: "Code",
+  youTube: "RajkumarKakumanu",
 };
 
 const primaryColor = "#4E567E";
