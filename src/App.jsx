@@ -25,12 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "RAJKUMAR KAKUMANU",
-  title: "Web Designer & Content Creator",
+  title: "Data Science student and Tech enthusiastic",
   email: "rajkumarkakumanu2003@gmail.com",
   gitHub: "rajkumarkakumanu",
   instagram: "rajkumar_kakumanu",
   linkedIn: "kakumanu-rajkumar",
-  medium: "",
+  medium: "rajkumarkakumanu",
   twitter: "K_RAJKUMAR_",
   youTube: "RajkumarKakumanu",
 };
