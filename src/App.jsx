@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "RAJKUMAR KAKUMANU",
-  title: "Data Science student and Tech enthusiastic",
+  title: "Data Science student and Tech enthusiast",
   email: "rajkumarkakumanu2003@gmail.com",
   gitHub: "rajkumarkakumanu",
   instagram: "rajkumar_kakumanu",
