@@ -45,11 +45,11 @@ const projectList = [
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "my personal website",
+    url: "https://rajkumarkakumanu72.wixsite.com/mysite",
   },
   {
-    title: "",
+    title: "My github",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "",
